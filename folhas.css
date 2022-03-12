@@ -1,5 +1,5 @@
 html, body{
-    margin: 0px;
+     margin: 0px;
      padding: 0px 
    }
 body{
@@ -10,7 +10,7 @@ header{
     alignment: center;
     padding-top: 5em;
     color: #fff;
-      font-family: Arial, "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: Arial, "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    }
 h1{
    line-height: 1.333;
@@ -22,5 +22,8 @@ h1{
    text-decoration: none;
 }
 
-
+azul{
+    color: blue;
+    font-size:48 px;
+}
 
